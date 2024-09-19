@@ -3,3 +3,4 @@
 + Gözetimli öğrenme kısmında çok başarılı bir sonuç elde edemedim ancak başka modeller ve veride iyileştirmeler yaparak bu sonucu daha iyi bir hale getirebiliriz. Bundan sonraki süreçte bunun üzerine yoğunlaşacağım.
 + Supervised Learning konusunda Linear Regresyon yöntemini denedim.
 + Unsupervised Learning konusunda ise Kümeleme yöntemini K-means ile gerçekleştirdim.
+https://www.kaggle.com/code/aslsudetetik/notebooka9ba02f1a8
